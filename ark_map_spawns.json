@@ -161,6 +161,14 @@
   { "Name": "Test Zone 2", "Class": [3], "X": 157733, "Y": 176936, "Z": -11218, "Range": 5, "Count": 1, "RespawnMin": 60, "RespawnMax": 120, "DespawnTime": 600 }
 ]
   },
+  "TestMapArea": {
+  "DropSpawns": [],
+  "DinoSpawns": [],
+  "WaterSpawns": [],
+  "CaveLayout": [
+    { "Name": "Test Zone 1", "Class": [1,2], "X": 0, "Y": 0, "Z": 0, "Range": 5, "Count": 2, "RespawnMin": 60, "RespawnMax": 120, "DespawnTime": 600 }
+  ]
+},
   "TheCenter_WP": {
     "DropSpawns": [
       {
