@@ -222,7 +222,17 @@
         "RespawnMax": 20,
         "DespawnTime": 600
       }
-    ]
+    ],
+    "FortressSpawns": [
+    {
+      "Name": "DevTest",
+      "Mode": "Air",
+      "X": 0,
+      "Y": 0,
+      "Z": 1000,
+      "Yaw": 0
+    }
+  ]
   },
   "TheCenter_WP": {
     "DropSpawns": [
